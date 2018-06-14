@@ -1,2 +1,2 @@
-# mirzayev.github.io
+# mirzayev
 Personal portfolio website
